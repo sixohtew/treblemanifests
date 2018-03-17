@@ -2,10 +2,6 @@
 <manifest>
   <remote fetch=".." name="aosp" review="https://android-review.googlesource.com/"/>
   <remote fetch="https://gitlab.com/fdroid/" name="fdroid"/># treblemanifests
-2
-manifest with project treble files
-3
-
   <remote fetch="https://github.com/opengapps/" name="opengapps"/>
   <remote fetch="https://github.com/phhusson/" name="phh"/>
   
